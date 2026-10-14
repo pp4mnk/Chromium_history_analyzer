@@ -1,6 +1,7 @@
 <p align="center">
   <img src="
-pp4mnkChromiumHistoryAnalyzer.png" alt="Logo" width="350">
+pp4mnkChromiumHistoryAnalyzer.png" alt="
+pp4mnkChromiumHistoryAnalyzer.png" width="350">
 </p>
 
 
