@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="logo.png" alt="PP4MNK Logo" width="350">
+</p>
+
+
 I wanted to find out which websites I visit most frequently when using Chromium on EasyOS, without having to scroll through hundreds of individual browsing history entries.
 
 The previous version worked perfectly from the terminal, but I thought: why not make it easier and more accessible for everybody?
